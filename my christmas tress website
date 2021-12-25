@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=divice-width" initial-scale=1>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link rel="stylesheet" href="fon.jpg">
-<link rel="stylesheet" href="style.css"
+<link rel="stylesheet" href="style.css">
 </head>
 <body class="headert">
 <header class="flexbox">
@@ -27,8 +27,8 @@
     </section>
 <nav>
   <map name="vk">
-  <area shape="default" href="vk.com" target="_blank">
-  <img usemap="#vk" class="vkposition" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" width="50"> 
+  <area shape="default" href="vk.com" target="_blank" alt="linking vk">
+  <img usemap="#vk" class="vkposition" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" width="50" alt="vk logo"> 
   </map>
     </nav>
 </header>
