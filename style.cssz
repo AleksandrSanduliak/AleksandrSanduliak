@@ -1,0 +1,76 @@
+*{
+    background-color: rebeccapurple; /* background color for*/
+
+}
+
+header{
+   display: flex;
+    block-size: 100px;
+}
+
+.first{
+    background-color: red; /* red block */
+    width: 100px;
+    outline: 3px solid rgb(107, 0, 0);
+    border: 2px dashed black;
+    opacity: 0.9;
+   max-height: 400px;
+   min-height: 45px;
+   max-width: 400px;
+   min-width: 50px;
+   margin-right: 20px;
+   margin-left: 5px;
+   margin-top: 5px;
+   outline-offset: 5px;
+   text-align: justify;
+   color: rgb(131, 34, 34);
+   vertical-align: middle;
+   
+   
+}
+
+.two{
+    background-color: red; /* red block */
+    width: 100px;
+    border: 2px dashed black;
+    opacity: 0.7;
+
+}
+
+.three{
+    background-color: red; /* red block */
+    width: 100px;
+    border: dotted black;
+    border-bottom-style: solid;
+    opacity: 0.5;   
+    min-width: 50px;
+}
+
+.four{
+    background-color: red; /* red block */
+    width: 100px;
+    border: dotted black;  
+    opacity: 0.2;
+}
+
+.five{
+    background-color: blue; /* red block */
+    border-left: 2px solid black;
+    width: 100px;
+    block-size: 20px;
+}
+
+.imgtop{
+    vertical-align: middle;
+}
+
+.aline{
+    text-decoration: none;
+}
+.texttrans{
+    text-transform: capitalize;
+}
+
+p{
+    line-height: 0.8;
+}
