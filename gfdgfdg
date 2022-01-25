@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+   <div>
+       <p>
+           Sample text Syntaxz
+       </p>
+   </div> 
+   <div>
+       <h1> Header</h1>
+    <p class="para1">
+        Sample text Syntaxz
+    </p>
+</div> 
+<div class="b1">beast1</div>
+<div class="b2">beast2</div>
+<div class="b3">beast3</div>
+<div class="b4">beast4</div>
+<div class="am">
+<a href="mysite">my sites</a>
+</div>
+<div>
+    <p class="border"> 
+bbbbb
+    </p>
+</div>
+
+<div class="text">
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis culpa quos in rerum voluptates? Incidunt obcaecati atque sunt architecto et exercitationem aliquam animi, iste dolor corporis, dicta velit quisquam. Accusantium!
+
+    </p>
+</div>
+<div>
+    <p class="borderland">
+aaaaaa
+    </p>
+</div>
+
+<div class="herza">
+    <a class="herza" href="mysite" target="_blank"> Site2</a>
+</div>
+
+<div class="bgimage">
+</div>
+</body>
+</html>
