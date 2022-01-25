@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet"> <!--Link to css file-->
+    <script src="https://kit.fontawesome.com/c7776d599b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+</head>
+<body>
+    <header>
+    <div class="first">
+        <p>
+            My little Pony
+        </p>
+    </div>
+
+    <div class="two">
+        <p>
+            My little Pony
+        </p>
+    </div>
+
+    <div class="three">
+        <p>
+            My little Pony
+        </p>
+    </div>
+
+    <div class="four">
+        <p>
+            My little Pony
+        
+        </p>
+        
+    </div>
+    <div>
+        <p class="five"> classet </p>
+    </div>
+</header>
+
+    <footer>
+<div>
+    meat
+<img  class="imgtop" src="https://images.pexels.com/photos/586744/pexels-photo-586744.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="50px" height="50px" alt="photer">
+oatmeal
+</div>
+<div>
+    <a class="aline" href="MySite" > My MySite</a>
+</div>
+
+<div>
+    <p>Обычный текст</p>
+    <p class="texttrans">
+Трансформация текста
+    </p>
+</div>
+
+<div>
+    <p style="text-indent: 20px; word-spacing: 30px; white-space: wrap; text-shadow: 1px 2px rgb(255, 255, 255);">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis reiciendis accusantium enim voluptatum maiores eaque error eius atque sed veniam ullam beatae quibusdam consectetur voluptas consequuntur id, necessitatibus praesentium? Numquam.</p>
+</div>
+<div>
+    <p >Better Now</p>
+</div>
+<div>
+    <p >Better Now</p>
+</div>
+    </footer>
+
+    <div>
+        <p class="sansserife">
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic quo voluptatem quis asperiores accusantium blanditiis aspernatur quas, eveniet delectus, in, minus similique qui vel magni. Veritatis quod reprehenderit facere. Facere.
+        </p>
+    </div>
+
+    <div>
+        <p class="fontfamilyz">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores quasi distinctio eum sit blanditiis nesciunt molestias, dolorum possimus voluptatibus, omnis autem tenetur nostrum molestiae accusantium voluptas. Explicabo labore perspiciatis excepturi.
+
+        </p>
+    </div>
+    <div>
+        <p style="font-size: 2vw;" class="googlefamily" >
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores quasi distinctio eum sit blanditiis nesciunt molestias, dolorum possimus voluptatibus, omnis autem tenetur nostrum molestiae accusantium voluptas. Explicabo labore perspiciatis excepturi.
+
+        </p>
+    </div>
+    <i class="material-icons">cloud</i>
+<i class="material-icons">favorite</i>
+<i class="material-icons">attachment</i>
+<i class="material-icons">computer</i>
+<i class="material-icons">traffic</i>
+
+
+<footer>
+    <div>
+        <a href="https://www.w3schools.com/css/exercise.asp?filename=exercise_font2"> ma link</a>
+    </div>
+
+    <div>
+        <ul>
+            <li>TestSample!</li>
+        </ul>
+    </div>
+
+<div>
+    <table>
+        <tr>
+        <td>Имя</td><td>фамилия</td>
+    </tr>
+    <tr>
+        <th>Peter</th> <th>Griffin  </th> <th>Peter</th> <th>Griffin  </th><th>Peter</th> <th>Griffin  </th><th>Peter</th> <th>Griffin  </th><th>Peter</th> <th>Griffin  </th><th>Peter</th> <th>Griffin  </th>
+    </tr>
+    <tr>
+        <th>Peter</th> <th>Maffin</th>
+    </tr>
+    <tr>
+        <th>Peter</th> <th>Puffin</th>
+    </tr>
+    </table>
+</div>
+</footer>
+</html>
