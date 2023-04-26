@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, i am Alexander </h1>
+  <h2> Web Developer</h2>
+</div>
 
 <!--
 **AleksandrSanduliak/AleksandrSanduliak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
