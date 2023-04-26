@@ -2,7 +2,7 @@
   <h1>Hi there, i am Alexander </h1>
   <h2> Web Developer</h2>
 </div>
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania
 <!--
 **AleksandrSanduliak/AleksandrSanduliak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
